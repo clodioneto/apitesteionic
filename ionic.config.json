@@ -1,0 +1,7 @@
+{
+  "name": "apitesteionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
